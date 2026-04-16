@@ -6,7 +6,7 @@ The Agentic AI Foundation (AAIF) publishes case studies to show how member organ
 
 There are two ways to participate:
 
-**Written Case Study** — Open to any end-user organization (AAIF member or non-member) working with an AAIF project. AAIF members may also provide a case study centered on a customer use case, with details about how they supported the implementation. All case studies must demonstrate at least one tangible business impact.
+**Written Case Study** — Open to any AAIF member organization. AAIF members may also provide a case study centered on a customer use case, with details about how they supported the implementation. All case studies must demonstrate at least one tangible business impact.
 
 **Webinar Case Study** — AAIF member organizations can submit a case study in webinar format (a 20–30 minute recorded presentation with Q\&A) for publication on AAIF channels.
 
