@@ -14,11 +14,7 @@ The Agentic AI Foundation (AAIF) blog serves as a central hub for sharing insigh
 
 The AAIF blog welcomes contributions from the following community members:
 
-**Member Companies (Platinum, Gold, Silver):** Posts should be vendor-neutral and aligned with AAIF's mission. Member companies may include one or two closing sentences with a single external link (e.g., company website, relevant project repository, or open positions). Annual blog allocations apply:
-
-* Platinum Members: Up to 4 posts per year  
-* Gold Members: Up to 4 posts per year  
-* Silver Members: Up to 2 posts per year
+**Member Companies:** Posts should be vendor-neutral and aligned with AAIF's mission. Member companies may include one or two closing sentences with a single external link (e.g., company website, relevant project repository, or open positions).
 
 **Project Maintainers & Contributors:** Posts focused on AAIF-hosted projects (MCP, goose, AGENTS.md, and future hosted projects) including release announcements, technical deep-dives, and roadmap updates.
 
