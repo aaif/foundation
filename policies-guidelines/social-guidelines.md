@@ -4,8 +4,6 @@
 
 The Linux Foundation leads the Agentic AI Foundation social media content strategy, access, and compliance with brand, legal, and communication policies. Content is published and approved by the Foundation staff to ensure consistency, accuracy, and alignment with project goals.
 
-The project community owns handles for MCP, goose and AGENTS.md. However, the Linux Foundation requires admin access to these accounts for emergency purposes.
-
 **Purpose**: These platforms are used to share Foundation-wide updates including releases, milestones, events, and initiatives relevant to the open source AI ecosystem.
 
 **Tone**: Neutral, professional, inclusive, and clear. Built to serve a global AI \+ developer audience and reflect the integrity of the project.
