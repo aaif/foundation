@@ -2,7 +2,6 @@
 
 > [!TIP]
 > You can use the AAIF blog guidelines agent skill to help draft, review, and prepare a blog submission.
->
 > ```bash
 > npx skills add aaif/public-agents --skill aaif-blog-guidelines --global
 > ```
