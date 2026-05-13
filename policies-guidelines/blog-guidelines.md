@@ -1,5 +1,12 @@
 # Agentic AI Foundation Content Intake Process \+ Guidelines
 
+> [!TIP]
+> You can use the AAIF blog guidelines agent skill to help draft, review, and prepare a blog submission.
+>
+> ```bash
+> npx skills add aaif/public-agents --skill aaif-blog-guidelines --global
+> ```
+
 ## **Overview**
 
 The Agentic AI Foundation (AAIF) blog serves as a central hub for sharing insights, updates, and technical content with the agentic AI community. It is a platform for highlighting open source projects, technical best practices, community milestones, and innovations in the agentic AI ecosystem.
