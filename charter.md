@@ -100,7 +100,7 @@ Effective Date: December 10, 2025
 
    2) Ideally, decisions will be made based on consensus. If, however, any decision requires a vote to move forward, the representatives of the Governing Board or Committee, as applicable, will vote on a one vote per voting representative basis.
 
-   3) Except as provided in Sections 5.e. and 13.a. or elsewhere in this Charter, decisions by vote at a meeting will require a simple majority vote, provided quorum is met. Except as provided in Sections 5.e. and 13.a. or elsewhere in this Charter, decisions by electronic vote without a meeting will require a majority of all voting representatives.
+   3) Except as provided in Sections 5.5 and 13.1 or elsewhere in this Charter, decisions by vote at a meeting will require a simple majority vote, provided quorum is met. Except as provided in Sections 5.5 and 13.1 or elsewhere in this Charter, decisions by electronic vote without a meeting will require a majority of all voting representatives.
 
    4) In the event of a tied vote or stalemate with respect to an action that cannot be resolved by the Governing Board, the Chair or, during the Startup Period, any Contributing Platinum Member may refer the matter to the LF for assistance in reaching a decision. If there is a tied vote in any Committee that cannot be resolved, the matter may be referred to the Governing Board.
 
@@ -170,4 +170,4 @@ Effective Date: December 10, 2025
 
 13) **Amendments**
 
-    1) This Charter may be amended by a two-thirds vote of the entire Governing Board, subject to approval by The Linux Foundation and, during the Startup Period, the requirements in Section 5.e.
+    1) This Charter may be amended by a two-thirds vote of the entire Governing Board, subject to approval by The Linux Foundation and, during the Startup Period, the requirements in Section 5.5.
