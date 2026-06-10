@@ -32,7 +32,7 @@ There are two ways to submit content for social amplification, depending on the 
 * **Relevant to Agentic AI**: Keep posts, replies, and shares focused on the open source AI ecosystem, community events, learning resources, or related topics.  
 * **Inclusive**: Please avoid exclusionary language, gatekeeping, or assumptions.  
 * **No Unsolicited Promotions**: We welcome vendor-neutral blog posts, projects, or tools related to agentic AI in open source. Generic self-promo, advertisements, and spam will not be accepted.  
-* **Give Credit**: Sharing code or ideas? Give proper attribution. Respect open source licenses and the effort behind contributions. Reposting individuals will be limited due the vast number of contributors.  
+* **Give Credit**: Sharing code or ideas? Give proper attribution. Respect open source licenses and the effort behind contributions. Reposting individuals will be limited due to the vast number of contributors.  
 * **Platform-Specific Etiquette**: Each space has a specific vibe we strive for.  
   * **X**: Short, punchy, engaging – great for threads, release notes, or memes.  
   * **LinkedIn**: Professional tone – highlight case studies, team achievements, or thoughtful business and tech discussions.  
