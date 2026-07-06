@@ -27,7 +27,7 @@ The AAIF blog welcomes contributions from the following community members:
 
 **Working Groups & Technical Committee (TC):** Posts authored by working group members or explicitly on behalf of a working group or the TC.
 
-**Community Contributors:** Posts covering expertise, thought leadership, tutorials, and personal experiences with AAIF projects and the broader agentic AI ecosystem. Community contributors may submit up to two posts per month.
+**Community Contributors and AAIF Ambassadors:** Posts covering expertise, thought leadership, tutorials, and personal experiences with AAIF projects and the broader agentic AI ecosystem. Community contributors may submit up to two posts per month.
 
 **Event & Program Participants:** Recaps, learnings, and personal reflections from AAIF-sponsored events, hackathons, or community programs.
 
