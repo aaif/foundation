@@ -29,6 +29,8 @@ The AAIF blog welcomes contributions from the following community members:
 
 **Community Contributors:** Posts covering expertise, thought leadership, tutorials, and personal experiences with AAIF projects and the broader agentic AI ecosystem. Community contributors may submit up to two posts per month.
 
+**AAIF Ambassadors:** AAIF ambassadors are encouraged to post content including thought leadership, tutorials, and personal experiences with AAIF projects and the broader agentic AI ecosystem.
+
 **Event & Program Participants:** Recaps, learnings, and personal reflections from AAIF-sponsored events, hackathons, or community programs.
 
 ## **Preferred Content Topics**
