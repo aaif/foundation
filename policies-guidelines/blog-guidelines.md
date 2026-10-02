@@ -1,4 +1,4 @@
-# Agentic AI Foundation Content Intake Process \+ Guidelines
+# Agentic AI Foundation content intake process + guidelines
 
 > [!TIP]
 > You can use the AAIF blog guidelines agent skill to help draft, review, and prepare a blog submission.
@@ -17,7 +17,7 @@ The Agentic AI Foundation (AAIF) blog serves as a central hub for sharing insigh
 * Content will be vetted for story value, relevance, and timeliness. Blogs should follow a narrative format.  
 * The Foundation team will own all communications with other companies when content is solely about that company and AAIF projects.
 
-## **Who Can Submit**
+## **Who can submit**
 
 The AAIF blog welcomes contributions from the following community members:
 
@@ -31,7 +31,7 @@ The AAIF blog welcomes contributions from the following community members:
 
 **Event & Program Participants:** Recaps, learnings, and personal reflections from AAIF-sponsored events, hackathons, or community programs.
 
-## **Preferred Content Topics**
+## **Preferred content topics**
 
 We encourage content that educates, informs, or advances the AAIF community. High-value topics include:
 
@@ -43,33 +43,38 @@ We encourage content that educates, informs, or advances the AAIF community. Hig
 * Community milestones, contributor spotlights, and working group updates  
 * Event recaps and key takeaways from AAIF-affiliated events
 
-## **Content Submission Guidelines**
+## **Content submission guidelines**
 
 All content must be reviewed, approved by your company's stakeholders, and **final and ready for immediate release** before submission.
 
-**Originality & Timeliness**
+**Originality & timeliness**
 
 * Content must be original and not previously published elsewhere.  
 * Submissions should reflect recent work or announcements (generally within the past two months).  
 * No paid, sponsored, or promotional posts will be accepted.
 
-**Tone & Language**
+**Tone & language**
 
-* Language should be as precise and clear as possible.  
+* Language should be as precise and clear as possible.
+* Use US English spelling and conventions throughout.
+* Avoid unsupported absolute or categorical claims. Qualify claims where the evidence, implementation, or circumstances may vary.
+* Support factual and technical claims with links to primary sources where practical.
 * Content must be vendor-neutral. We do not amplify content that unduly promotes or benefits one AAIF community member over others.  
 * Posts should avoid criticism or discouragement of the adoption of any open source project.  
 * Technical and educational value is strongly encouraged.
 
 **Format**
 
+* Use sentence case for all blog titles and section headings. Capitalize proper nouns, product names, project names, and acronyms as appropriate.
+* Use project and technology names consistently with their official styling.
 * Blogs should follow a **narrative format** — not a press release or marketing one-pager.  
 * Ideal length is 600–1,500 words, though technical deep-dives may be longer.  
 * Include a suggested title, author name(s), author bio(s), and a high-resolution headshot or logo.  
 * Desired social media copy, including preferred hashtags, **must be included** in the designated section of the submission form.
 
-## **The Submission Process**
+## **The submission process**
 
-### **1\. Content Submitted**
+### **1\. Content submitted**
 
 Submit your content through the [**content submission form**](https://form.asana.com/?k=Bq-lRvAXGzHQIXH_etPOxA&d=9283783873717). Upon submission, the content enters a tracking system managed by the Linux Foundation team. Include:
 
@@ -80,30 +85,30 @@ Submit your content through the [**content submission form**](https://form.asana
 
 **Note:** A submission does not guarantee publication. You will be contacted if we choose not to post your content.
 
-### **2\. Content Triaged**
+### **2\. Content triaged**
 
 The Foundation team vets submissions and schedules them into the existing editorial calendar. The team will follow up with the submitter with any questions, concerns, or scheduling updates.
 
-### **3\. Content Reviewed**
+### **3\. Content reviewed**
 
 Content is reviewed by LF marketing and communications. If necessary:
 
 * **Legal review:** Content may be reviewed by Linux Foundation legal.  
 * **Technical review:** This is *not* a technical review — all technical reviews must be completed by the submitting company or project team *before* submission. If needed, the LF team may refer content to the TC for input.
 
-### **4\. Content Sent Back**
+### **4\. Content sent back**
 
 Upon approval, the content is returned to the submitter for a final review before posting. This is your opportunity to confirm accuracy and approve any edits suggested by the LF team.
 
-### **5\. Content Scheduled**
+### **5\. Content scheduled**
 
 The LF team schedules the post once final and shares the expected publish date and final URL with the submitter — enabling amplification to be coordinated across channels wherever possible.
 
-### **6\. Content Amplified**
+### **6\. Content amplified**
 
 The LF team amplifies content across relevant AAIF channels (website, social media, newsletter). We strongly recommend that the submitting company or project team amplify on their own channels simultaneously.
 
-## **Submission Timelines**
+## **Submission timelines**
 
 | Stage | Estimated Timeline |
 | ----- | ----- |
@@ -114,7 +119,7 @@ The LF team amplifies content across relevant AAIF channels (website, social med
 
 Response times may be longer during major industry events or conferences. Please plan accordingly and submit well in advance of time-sensitive announcements.
 
-## **Important Notes**
+## **Important notes**
 
 Requesting amplification does not guarantee posting. The Foundation team will do its best to follow up if there are questions or concerns, and to accommodate requested timeframes. However, the editorial calendar may fill up, and other announcements may conflict with your submission. The team will use its best discretion on amplification.
 
